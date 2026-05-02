@@ -4,9 +4,9 @@ A sophisticated notification management platform designed to aggregate, categori
 
 ---
 
-## 📸 Demo
+##  Demo
 
-### 🎬 Screen Recording
+###  Screen Recording
 
 https://github.com/aditya290404/RA2311003011138/raw/main/assets/demo.mp4
 
@@ -40,7 +40,7 @@ https://github.com/aditya290404/RA2311003011138/raw/main/assets/demo.mp4
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 - **Automated Authorization Lifecycle:** Built-in security scripts manage and refresh access tokens, ensuring continuous, authorized communication with central data services.
 - **Advanced Priority Engine:** Implements a multi-layered sorting algorithm that evaluates notification types (`Placement`, `Result`, `Event`) and chronological relevance to surface the most critical information first.
@@ -50,7 +50,7 @@ https://github.com/aditya290404/RA2311003011138/raw/main/assets/demo.mp4
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The project is organized into modular components for scalability and maintainability:
 
@@ -84,7 +84,7 @@ RA2311003011138/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -140,7 +140,7 @@ The application will be accessible at `http://localhost:3000`.
 
 ---
 
-## 📝 Algorithm Details
+##  Algorithm Details
 
 The **Priority Inbox** utilizes a weighted sorting strategy:
 
