@@ -8,8 +8,7 @@ A sophisticated notification management platform designed to aggregate, categori
 
 ### 🎬 Screen Recording
 
-> A full walkthrough video demonstrating the application's features is available in the `assets/` directory:
-> [`demo.mp4`](./assets/demo.mp4)
+<video src="./assets/demo.mp4" controls width="100%"></video>
 
 ### Desktop View
 

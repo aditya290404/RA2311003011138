@@ -14,5 +14,4 @@ npm-debug.log*
 # OS files
 Thumbs.db
 
-# Large video file (use Git LFS or link externally)
-assets/demo.mp4
+
