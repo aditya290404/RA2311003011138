@@ -8,7 +8,7 @@ A sophisticated notification management platform designed to aggregate, categori
 
 ### 🎬 Screen Recording
 
-<video src="./assets/demo.mp4" controls width="100%"></video>
+https://github.com/aditya290404/RA2311003011138/raw/main/assets/demo.mp4
 
 ### Desktop View
 
