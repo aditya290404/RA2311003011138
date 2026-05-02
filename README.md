@@ -3,6 +3,9 @@
 A sophisticated notification management platform designed to aggregate, categorize, and prioritize campus-wide updates. This system combines a robust backend sorting engine with a high-fidelity, Apple-inspired user interface to deliver a seamless information experience.
 
 ---
+**Name:** Aditya Prasad  
+**Email:** ap3783@srmist.edu.in  
+**RA Number:** RA2311003011138 
 
 ##  Demo
 
